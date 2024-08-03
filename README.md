@@ -208,7 +208,7 @@ This guide will walk you through setting up a complete web server environment on
 
     - Open your browser and go to `http://localhost`. You should see the following output:
 
-    ![Simple HTML Page](file-eNVKuIeKC4wPEJBblLgGzqEp)
+    ![Simple HTML Page](http_mywebsite.png)
 
 ## 3. MySQL Server Setup
 
@@ -302,7 +302,7 @@ This guide will walk you through setting up a complete web server environment on
 
     - After inserting data, you will fetch and display it using PHP. Here’s how the output will look after completing the PHP setup:
 
-    ![Database Users in HTML](file-awPiI3eIIk7dGngjQ4rGhmYv)
+    ![Database Users in HTML](http_mywebsite_db.png)
 
 ## 4. PHP Installation and Configuration
 
@@ -460,7 +460,7 @@ This guide will walk you through setting up a complete web server environment on
 
     **Note:** You may receive a warning about the connection not being secure. This is expected with self-signed certificates. Here's how the output should look:
 
-    ![HTTPS Setup](file-qreHJNpu6mFVCKPdJ6IyEQVr)
+    ![HTTPS Setup](https_mywebsite.png)
 
 ---
 
