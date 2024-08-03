@@ -298,12 +298,6 @@ This guide will walk you through setting up a complete web server environment on
     VALUES ('johndoe', 'johndoe@example.com', 'securepasswordhash');
     ```
 
-4. **Test Your Setup**
-
-    - After inserting data, you will fetch and display it using PHP. Here’s how the output will look after completing the PHP setup:
-
-    ![Database Users in HTML](http_mywebsite_db.png)
-
 ## 4. PHP Installation and Configuration
 
 ### Install PHP and Required Extensions
@@ -396,6 +390,8 @@ This guide will walk you through setting up a complete web server environment on
 4. **Test Your Setup**
 
     - After completing these steps, visit `http://localhost` again, and you should see the user data displayed on your webpage.
+
+    ![Database Users in HTML](http_mywebsite_db.png)
 
 ## 5. Enabling SSL with a Self-Signed Certificate
 
